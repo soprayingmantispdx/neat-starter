@@ -1,12 +1,9 @@
 backend:
-  # Use netlify identity as backend
   name: github
   repo: soprayingmantispdx/neat-starter
   branch: master
-  base_url: bambooforesttemple-99y09buis-soprayingmantispdx.vercel.app
-  ### enable below lines for github integration ###
-  # name: github
-  # repo: surjithctly/neat-starter
+  base_url: https://bambooforesttemple.vercel.app
+
 media_folder: "src/static/img"
 public_folder: "/static/img"
 
